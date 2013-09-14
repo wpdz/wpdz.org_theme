@@ -12,3 +12,5 @@ Theme de wpdz.org
 
 
 * Basé sur un starter theme [underscore](http://underscores.me/) connus aussi par son utilisation des themes WordPress comme twentythirtheen, il est développé par les gens de [Automattic](http://underscores.me/) précisement [themeshaper](http://themeshaper.com/)
+
+* Il suit [WordPress Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards)
